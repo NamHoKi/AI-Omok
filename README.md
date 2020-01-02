@@ -1,1 +1,1 @@
-##AI-Omok
+## AI-Omok
