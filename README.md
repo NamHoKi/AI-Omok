@@ -1,4 +1,4 @@
-## AI-Omok
+## AI-Omok Mini Project
 
 -------
 
