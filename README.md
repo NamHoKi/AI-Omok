@@ -7,7 +7,7 @@
 ![omok](https://user-images.githubusercontent.com/48282708/71707199-feb57e00-2e2b-11ea-9257-977c33195025.png)
 ------------
 ## Rule
-AI : 흑, User : 백
+##### *AI : 흑, User : 백*
 승리조건 : 5목 이상 (6목,, 7목 ... 등등)
 3 x 3 : 흑,백 모두 금지
 4 x 4 : 흑,백 모두 가능
