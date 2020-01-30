@@ -8,7 +8,8 @@
 ##### - python version : 3.7
 ##### - encoding : UTF-8
 ### Install
-##### - GUI : Pygame
+#### GUI : Pygame
+##### * --pip3 install pygame
 ------------
 ## Rule
 ##### - AI : 흑, User : 백
@@ -39,3 +40,4 @@
 ### 개선할 점
 ##### 1. 재시작 전 카운트 다운할 때, 마우스 이벤트 오류 수정
 ##### 2. MinMax 알고리즘을 사용하여 더 많은 수 예측
+----------
